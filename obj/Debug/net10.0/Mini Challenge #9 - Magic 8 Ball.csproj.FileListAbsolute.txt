@@ -12,3 +12,18 @@ C:\Users\sirpi\OneDrive\Documents\Mini Challenge #9 - Magic 8 Ball\obj\Debug\net
 C:\Users\sirpi\OneDrive\Documents\Mini Challenge #9 - Magic 8 Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.pdb
 C:\Users\sirpi\OneDrive\Documents\Mini Challenge #9 - Magic 8 Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.genruntimeconfig.cache
 C:\Users\sirpi\OneDrive\Documents\Mini Challenge #9 - Magic 8 Ball\obj\Debug\net10.0\ref\Mini Challenge #9 - Magic 8 Ball.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\bin\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.exe
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\bin\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.deps.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\bin\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\bin\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\bin\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.pdb
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.sourcelink.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\refint\Mini Challenge #9 - Magic 8 Ball.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.pdb
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\Mini Challenge #9 - Magic 8 Ball.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--9---Magic-8-Ball\obj\Debug\net10.0\ref\Mini Challenge #9 - Magic 8 Ball.dll

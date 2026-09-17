@@ -3,8 +3,8 @@
 //Last Saved: 9/16/2026 9:20 PM
 //Mini Challenge #9 - Magic 8 Ball
 //I made a Magic 8 Ball that can respond to questions
-//Peer Review Name:
-//Review: 
+//Peer Review Name:Brandon Langehennig
+//Review: Code runs great and works as intended
 
 string replay;
 
